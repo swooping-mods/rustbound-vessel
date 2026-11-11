@@ -1,5 +1,7 @@
 # Rustbound Vessel
 
+<img src="media/icon.png" alt="Rustbound Vessel icon" width="128" height="128">
+
 New fast enclosed hover vessel, powered by Vehicle Framework.
 
 ## Install
